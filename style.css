@@ -16,13 +16,13 @@ body, html {
   width: 200px;
 }
 // Another method no need to change the body,html part 
-.header{
-  background-color: darkgreen;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 300px;
-    height: 300px;
+//.header{
+  //background-color: darkgreen;
+  //  position: absolute;
+  //  top: 50%;
+  //  left: 50%;
+  //  transform: translate(-50%, -50%);
+  //  width: 300px;
+   // height: 300px;
 
-}
+//}
